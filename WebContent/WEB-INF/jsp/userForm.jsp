@@ -30,7 +30,6 @@
 				<form:option value="0" label="Select" />
 				<form:option value="1" label="India" />
 				<form:option value="2" label="USA" />
-				<form:option value="2" label="Canada" />
 			</form:select></td>
 		</tr>
 		<tr>
